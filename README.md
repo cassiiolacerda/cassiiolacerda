@@ -67,7 +67,7 @@ _Tecnologias: Airflow, Docker, Python_
 <h2 align="left">📬 Contato</h2>
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/cassiiolacerda)  
-- 📫 cassiolacerda@email.com  
+- 📫 cassiolacerda2010@gmail.com  
 - 🔗 [GitHub](https://github.com/cassiiolacerda)
 
 ---
