@@ -72,4 +72,4 @@ _Tecnologias: Airflow, Docker, Python_
 
 ---
 
-<img src="https://github.com/cassiiolacerda/cassiiolacerda/blob/output/github-snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/cassiiolacerda/cassiiolacerda/output/github-snake.svg" alt="Snake animation" />
